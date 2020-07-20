@@ -1,0 +1,7 @@
+﻿  hero.cpp
+c:\users\charlie tong\desktop\charlie's college stuff\p3\p3\hero.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p3\p3\hero.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p3\p3\hero.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p3\p3\hero.cpp(263): warning C4018: '<': signed/unsigned mismatch
+  P3.vcxproj -> C:\Users\Charlie Tong\Desktop\Charlie's College Stuff\P3\Debug\P3.exe
+  P3.vcxproj -> C:\Users\Charlie Tong\Desktop\Charlie's College Stuff\P3\Debug\P3.pdb (Partial PDB)
